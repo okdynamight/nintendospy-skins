@@ -1,0 +1,1 @@
+these are skins ive made that i should prob host somewhere. theyre varying quality, but they were all made for my personal use and itd be nice to have a place where it can live since there arent really nintendospy skins out in the wild :/
