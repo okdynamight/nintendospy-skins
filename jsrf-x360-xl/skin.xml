@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="JSRF X360 Extended" author="limga" type="pc360">
+    <background name="Default" image="bg.png" />
+
+    <button name="a" image="A.png" x="92" y="133" width="25" height="25" />
+    <button name="b" image="B.png" x="134" y="87" width="24" height="24" />
+    <button name="x" image="X.png" x="49" y="87" width="25" height="25" />
+    <button name="y" image="Y.png" x="91" y="41" width="25" height="25" />
+
+    <button name="up" image="Up.png" x="295" y="59" width="10" height="10" />
+    <button name="down" image="Down.png" x="295" y="134" width="10" height="10" />
+    <button name="left" image="Left.png" x="255" y="89" width="21" height="21" />
+    <button name="right" image="Right.png" x="324" y="89" width="21" height="21" />
+
+    <button name="start" image="Start.png" x="212" y="53" width="11" height="13" />
+    <button name="back" image="Select.png" x="177" y="52" width="11" height="11" />
+
+    <button name="l" image="LB.png" x="20" y="48" width="26" height="26" />
+    <analog name="trig_l" image="LT.png" x="20" y="20" width="34" height="26"
+            direction="down" reverse="false" />
+
+    <button name="r" image="RB.png" x="352" y="48" width="34" height="26" />
+    <analog name="trig_r" image="RT.png" x="346" y="20" width="34" height="26"
+            direction="down" reverse="false" />
+
+    <stick xname="lstick_x" yname="lstick_y" image="stick.png"
+        x="94" y="93" width="14" height="14" xrange="24" yrange="24"/>
+    <stick xname="rstick_x" yname="rstick_y" image="stick.png"
+        x="294" y="93" width="14" height="14" xrange="24" yrange="24"/>
+
+    <button name="l3" image="stick.png" x="94" y="93" width="14" height="14" />
+    <button name="r3" image="stick.png" x="294" y="93" width="14" height="14" />
+</skin>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Banania SA2 Style" author="jaburns" type="pc360">
+
+    <background name="Default" image="bg.png" />
+
+    <button name="a" image="buttA.png" x="4" y="75" width="32" height="32" />
+    <button name="b" image="buttB.png" x="180" y="75" width="32" height="32" />
+    <button name="x" image="buttX.png" x="180" y="27" width="32" height="32" />
+    <button name="y" image="buttY.png" x="4" y="27" width="32" height="32" />
+
+    <button name="start" image="buttS.png" x="156" y="4" width="16" height="16" />
+
+    <stick xname="lstick_x" yname="lstick_y" image="stick.png"
+           x="104" y="64" width="10" height="10" xrange="59" yrange="59"/>
+
+</skin>

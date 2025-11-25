@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Basic PS4 Pixel" author="jaburns" type="generic">
+
+    <background name="Default" image="bg.png" />
+
+    <button name="b0"  image="square.png" x="360"  y="135" />
+    <button name="b1"  image="cross.png" x="464"  y="240" />
+    <button name="b2"  image="circle.png" x="569" y="135" />
+    <button name="b3"  image="triangle.png" x="464" y="29" />
+
+    <button name="b9"  image="option.png" x="310" y="20" />
+
+    <button name="up"    image="u.png"    x="127"  y="21" />
+    <button name="down"  image="d.png"  x="127"  y="234" />
+    <button name="left"  image="l.png"  x="20"  y="146" />
+    <button name="right" image="r.png" x="200" y="146" />
+
+</skin>

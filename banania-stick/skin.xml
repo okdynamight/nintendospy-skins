@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Banania Sick" author="jaburns" type="generic">
+
+    <background name="Default" image="bg.png" />
+
+    <stick xname="x" yname="y" image="sticks.png"
+           x="133" y="133" width="35" height="35" xrange="70" yrange="70" yreverse="true" />
+
+</skin>

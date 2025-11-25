@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Banania SA2 Style 2Stick" author="jaburns" type="generic">
+
+    <background name="Default" image="bg.png" />
+
+    <button name="b1" image="buttA.png" x="4" y="75" width="32" height="32" />
+    <button name="b0" image="buttB.png" x="206" y="75" width="32" height="32" />
+    <button name="b3" image="buttX.png" x="206" y="27" width="32" height="32" />
+    <button name="b2" image="buttY.png" x="4" y="27" width="32" height="32" />
+
+    <button name="b7" image="buttS.png" x="182" y="4" width="16" height="16" />
+
+    <stick xname="x" yname="y" image="stick.png"
+           x="79" y="35" width="7" height="7" xrange="27" yrange="27" yreverse="true" />
+    <stick xname="rx" yname="ry" image="stick.png"
+           x="156" y="94" width="7" height="7" xrange="27" yrange="27" yreverse="true" />
+
+</skin>
